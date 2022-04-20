@@ -1,5 +1,0 @@
-<launch>
-  
-  <node pkg="location_tracking" type="location_tracking" name="Location_Tracking" output="screen"/>
-
-</launch>

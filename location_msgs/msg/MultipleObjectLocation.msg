@@ -1,2 +1,0 @@
-Header header
-SingleObjectLocation[] multiple_object_location
