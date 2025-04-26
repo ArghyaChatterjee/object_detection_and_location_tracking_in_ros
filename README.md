@@ -1,6 +1,6 @@
-# Object Detection and Location Tracking in ROS
+# Object Detection and Location Tracking 
 
-This repository contains code for object detection and location tracking in ROS with realsense d435 camera.
+This repository contains code for object detection and location tracking in ROS with realsense cameras.
 
 ## Clone This Repo
 ```
