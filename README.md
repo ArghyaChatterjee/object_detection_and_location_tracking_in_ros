@@ -5,7 +5,7 @@ This repository contains code for object detection and location tracking in ROS 
 ## Clone This Repo
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/ArghyaChatterjee/object_detection_and_location_tracking_in_ros.git
+git clone https://github.com/ArghyaChatterjee/object-detection-and-location-tracking-in-ros.git
 ```
 
 ## Realsense ROS Installation
